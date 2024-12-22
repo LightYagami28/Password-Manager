@@ -1,5 +1,5 @@
 
-Copyright (c) 2024, Alessandro Maule
+Copyright (c) 2024, Light Yagami
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
